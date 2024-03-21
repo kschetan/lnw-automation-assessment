@@ -1,11 +1,11 @@
-Behavior Driven Development Cucumber - Selenium with TestNG based automation framework
+**Behavior Driven Development Cucumber - Selenium with TestNG based automation framework**
 
-Overview : 
+**Overview :** 
 
 The aim of this maven project is developed to fulfill an automation assignment utilizing Java, Selenium with TestNG frameworks. With a focus on achieving automation objectives within minimum time constraints, the primary objective is to automate provided test cases and present their results effectively.
 The deliverables include automated test scripts and execution reports.
 
-Requirements : 
+**Requirements :** 
 
 The project involves implementing automation scripts to automate test cases related to adding items to the cart on Amazon website. This implementation only contains  web based automation test scripts. 
 
@@ -15,7 +15,7 @@ To validate adding a second item from the search list to cart
 To validate adding multiple items from the search list to cart
 
 
-Design Approach : 
+**Design Approach : **
 
 
 This project is implemented with Maven project structure using Java and Selenium, along with TestNG for test execution and reporting. The framework setup and test script development includes
@@ -28,15 +28,15 @@ Log4j : Open-source logging framework for Java applications. It provides a flexi
 Java : Java is a high-level, class-based, object-oriented programming language
 
 
-Technical Documentation: 
-Installation Guide: 
+**Technical Documentation: **
+**Installation Guide:** 
  Download and Setup the latest  java17  version - Click here 
 Download the IDE for develop /debug code
 Integrate with TestNG , Cucumber, Log4j,  Reports
 
 
 :
-Steps to execute : 
+**Steps to execute : **
 Clone the project from the Github repo - Link
 Go to your project directory from terminal and run following commands
 mvn clean install
